@@ -74,5 +74,3 @@ class Article extends React.Component{
 
 ReactDOM.render(<ArticleGrid/>,document.getElementById('container'))
 
-
-
